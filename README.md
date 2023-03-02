@@ -1,7 +1,8 @@
-<div>
+<h1 align="center"> Jhony Alex </h1>
+
+<div align="center">
 	<a href="https://github.com/JhonyAL">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonyAL&layout=compact&langs_count=7&theme=dracula"/>
-	![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonyAL&layout=compact&langs_count=7&theme=dracula" style="margin: 50px auto;"/>
 </div>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50px" height="50px"/>
